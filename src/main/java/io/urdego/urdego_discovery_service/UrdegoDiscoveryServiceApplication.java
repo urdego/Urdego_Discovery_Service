@@ -11,6 +11,5 @@ public class UrdegoDiscoveryServiceApplication {
     public static void main(String[] args) {
         SpringApplication.run(UrdegoDiscoveryServiceApplication.class, args);
     }
-
     
 }
